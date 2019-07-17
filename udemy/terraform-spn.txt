@@ -1,0 +1,9 @@
+Display Name : Terraform
+Application(client) ID : 25ac165c-1d9a-46b0-8364-8b01284455e2
+Object ID : 64793351-7bd9-476d-a0dd-de2a16d4d5ac
+
+client_secret : .qgGg8o=WjzzR8QMAjAd@dk5fWhT+uC5
+
+tenant_id : 3afa9b32-8aa9-4a8a-98e7-952bfc15446e
+
+subscription_id : 91fd4f00-1757-4e21-8775-66b4289e6da3
